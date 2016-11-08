@@ -1,6 +1,6 @@
 # Burnout Resources
 
-Varies resources related to burnout, mostly specific to IT
+Various resources related to burnout, mostly specific to IT
 
 ## Talks
 
