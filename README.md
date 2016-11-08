@@ -14,3 +14,9 @@ Varies resources related to burnout, mostly specific to IT
 ## Web
 
 * mind garden - [Maslach Burnout Inventory](http://www.mindgarden.com/117-maslach-burnout-inventory)
+
+# Related Resources
+
+* Mental health - [Prompt](http://mhprompt.org/) initiative
+   * Includes Burnout-specific talks like
+     ["Burnout and the Joy of Painting"](http://calebthompson.io/talks/painting.html) by Caleb Thompson
