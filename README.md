@@ -14,3 +14,4 @@ Varies resources related to burnout, mostly specific to IT
 ## Web
 
 * mind garden - [Maslach Burnout Inventory](http://www.mindgarden.com/117-maslach-burnout-inventory)
+* mindtools [Burnout Self-Test](https://www.mindtools.com/pages/article/newTCS_08.htm)
